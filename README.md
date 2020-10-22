@@ -1,5 +1,5 @@
 # PDF Map Accessibility (pdf_map_accessibility)
-A repository of PDF maps and documentation around implementing and testing accessibility.
+A repository of PDF maps and documentation around implementing and testing accessibility, in particular with regard to tagging maps as figures within Adobe Pro.
 
 This repository will:
 
@@ -11,3 +11,6 @@ This repository will:
 1. arcgis_pro - example documents for PDF creation and tagging documents created by ArcGIS Pro. See readme within folder for more details
 2. data - Common data referenced to create mapping projects and documents.
 3. qgis - example documents for PDF creation and tagging documents created by QGIS. See readme within folder for more details.
+
+## Note
+Please note that this repo is primarily about tagging of figures using the technique described in [Tagging Maps with Acrobat Professional](https://mn.gov/mnit/assets/map-tagging-acrobat-professional_tcm38-382613.pdf) (see page 3). It is NOT about "making the map accessible", which is a much bigger topic. So, that's why we're focusing on a very simple map and title - we fully understand that a complete / fully accessible map would likely include a table of the data (regions) shown.
