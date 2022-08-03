@@ -8,7 +8,7 @@ Contains:
 "region_example_untagged.pdf" is the file that is created when exporting the Layout in ArcGIS Pro as a PDF. Most default options are left except the georeferencing option is unchecked. (see export_options.PNG) Layers are not exported. You can use this PDF to test tagging capabilities as described below and see if you get the same results.
 
 ## Empty Tag PDF
-"region_example_empty_tags.pdf" is the result of tagging the initial PDF using the technique described in [Tagging Maps with Acrobat Professional](https://mn.gov/mnit/assets/map-tagging-acrobat-professional_tcm38-382613.pdf) (see page 3). You can see that while tags are created for the document, they are empty and when you select them, you see nothing selected within the document. Assigning alt text is completely manual; nothing is automatically created. If you activate "Read Out Loud", you will hear "Warning: Empty Page".
+"region_example_empty_tags.pdf" is the result of tagging the initial PDF using the technique described in [Tagging Maps with Acrobat Professional](https://mn.gov/mnit/assets/map-tagging-acrobat-professional_tcm38-382613.pdf) (see page 3). You can see that while tags are created for the document, they are empty (see empty_tags.PNG). When you select them, you see nothing selected within the document. Assigning alt text is completely manual; nothing is automatically created. If you activate "Read Out Loud", you will hear "Warning: Empty Page".
 
 ## Tagged PDF
 "region_example_tagged.pdf" is the result of tagging via an alternative method:
