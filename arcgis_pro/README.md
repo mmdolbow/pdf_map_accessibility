@@ -17,4 +17,4 @@ Contains:
 You can see that the resulting "<Figure>" tag is not empty, and has alt text assigned. This text is read with "Read Out Loud". However, if you attempt to create additional tagged content with the "Reading Order" panel, it will _break the existing tag_ and create new empty tags just like the Empty Tag PDF.
 
 # Software Versions
-Contents of this folder were created with ArcGIS Pro 2.5 and Adobe Acrobat Pro DC Version 2019.021.20061.
+Contents of this folder were created with ArcGIS Pro 2.6.1 and Adobe Acrobat Pro DC Version 2022.001.20169
