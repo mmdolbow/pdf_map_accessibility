@@ -14,5 +14,8 @@ This repository contains:
 ## Contributing
 The repo's [primary author](https://github.com/mmdolbow) has limited access to newer versions of map-making software. If you have access to newer versions and would like to contribute, please make a pull request, preferably with a new branch that has your software version noted in it.
 
+### Archive Branches
+Now that we are updating this slowly over time with new software versions, we're creating an "archive_...." branch before pushing updates to master with newer versions. This way we can go back in time and compare how things looked in the past as necessary.
+
 ## Note
 Please note that this repo is primarily about tagging of figures using the technique described in [Tagging Maps with Acrobat Professional](https://mn.gov/mnit/assets/map-tagging-acrobat-professional_tcm38-382613.pdf) (see page 3). It is NOT about "making the map accessible", which is a much bigger topic. So, that's why we're focusing on a very simple map and title - we fully understand that a complete / fully accessible map would likely include a table of the data (regions) shown.
